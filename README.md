@@ -17,13 +17,11 @@ Today, it powers 70+ businesses with structured, automation-driven digital solut
 
 I specialize in:
 
+- Empowering businesses with web and app solutions 
 - Engineering scalable SaaS architectures  
 - Designing ERP & dashboard ecosystems  
 - Building automation-first backend systems  
-- Developing revenue-oriented digital platforms  
-- Structuring clean, modular system design  
-
-I don’t just manage teams — I build the core architecture.
+- Developing revenue-oriented digital platforms
 
 ---
 
