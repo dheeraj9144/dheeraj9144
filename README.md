@@ -104,6 +104,7 @@ Includes scraping engines, structured filtering logic, lead management dashboard
 
 ## 🌐 Connect
 
+LinkedIn: https://linkedin.com/in/the-dheerajsingh     
 Website: https://solutionworld247.com  
 Email: info@solutionworld247.com  
 
