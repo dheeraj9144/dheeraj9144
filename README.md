@@ -9,7 +9,7 @@ Designing, Engineering & Scaling SaaS Platforms, Automation Systems and Digital 
 
 ## 🚀 Tech Founder Mindset
 
-I am a technology entrepreneur and full-stack engineer focused on building scalable software systems from the ground up.
+I am a tech entrepreneur and full-stack engineer focused on building scalable software systems from the ground up.
 
 I founded and built <strong>Solution World 24x7</strong> from zero — architecting its digital infrastructure, technical stack, service systems, and product ecosystem from scratch.
 
@@ -104,21 +104,11 @@ Includes scraping engines, structured filtering logic, lead management dashboard
 
 ---
 
-## 📊 Engineering Philosophy
-
-- Build modular, scalable systems  
-- Automate repetitive workflows  
-- Design for long-term maintainability  
-- Prioritize performance and structured architecture  
-- Combine product thinking with engineering execution  
-
----
-
 ## 🌐 Connect
 
 Website: https://solutionworld247.com  
-LinkedIn: https://linkedin.com/in/your-link  
-Email: dheeraj@solutionworld247.com  
+LinkedIn: https://linkedin.com/in/the-dheerajsingh
+Email: info@solutionworld247.com  
 
 ---
 
