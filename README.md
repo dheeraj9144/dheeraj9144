@@ -36,9 +36,6 @@ Founded and engineered the complete digital agency infrastructure including:
 - Client workflow architecture  
 - Performance-optimized websites  
 
-### 🔹 Campus24x7  
-Scalable ERP infrastructure with modular dashboards, role-based access control, and automation workflows.
-
 ### 🔹 Instagram Lead Automation Platform  
 Built using React + Node.js + Puppeteer.  
 Includes scraping engines, structured filtering logic, lead management dashboards, and automation pipelines.
