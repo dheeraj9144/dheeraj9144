@@ -7,7 +7,7 @@ Designing, Engineering & Scaling SaaS Platforms, Automation Systems and Digital 
 
 ---
 
-## 🚀 Tech Founder Mindset
+##  Tech Founder Mindset
 
 I am a tech entrepreneur and full-stack engineer focused on building scalable software systems from the ground up.
 
@@ -25,7 +25,7 @@ I specialize in:
 
 ---
 
-## 🧠 Products & Systems Built
+##  Products & Systems Built
 
 ### 🔹 Solution World 24x7 (Built from Zero)
 Founded and engineered the complete digital agency infrastructure including:
@@ -42,7 +42,7 @@ Includes scraping engines, structured filtering logic, lead management dashboard
 
 ---
 
-## 🛠 Core Technology Stack
+##  Core Technology Stack
 
 <table width="100%">
 <tr>
@@ -99,7 +99,7 @@ Includes scraping engines, structured filtering logic, lead management dashboard
 
 ---
 
-## 🌐 Connect
+##  Connect
 
 LinkedIn: https://linkedin.com/in/the-dheerajsingh     
 Website: https://solutionworld247.com  
