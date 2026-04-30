@@ -7,7 +7,7 @@ Designing, Engineering & Scaling SaaS Platforms, Automation Systems and Digital 
 
 ---
 
-##  Tech Founder Mindset
+##  Tech Founder
 
 I am a tech entrepreneur and full-stack engineer focused on building scalable software systems from the ground up.
 
