@@ -13,7 +13,7 @@ I am a tech entrepreneur and full-stack engineer focused on building scalable so
 
 I founded and built <strong>Solution World 24x7</strong> from zero — architecting its digital infrastructure, technical stack, service systems, and product ecosystem from scratch.
 
-Today, it powers 70+ businesses with structured, automation-driven digital solutions.
+Today, it powers 100+ businesses with structured, automation-driven digital solutions.
 
 I specialize in:
 
